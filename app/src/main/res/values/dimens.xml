@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="distance_between_views">16dp</dimen>
+    <dimen name="button_size">48dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="dis_quantity">8dp</dimen>
+    <dimen name="distance_checkbox">24dp</dimen>
+</resources>
